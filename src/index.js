@@ -6,7 +6,7 @@ import formatter from './formatters/index.js';
 import buildTree from './buildTree.js';
 
 const getFileInfo = (file) => {
-  const data = fs.readFileSync(path.resolve(file));
+  const data = fs.readFileSync(path.resolve(process.cwd(), '__fixtures__', file));
   const format = path.extname(file).substring(1);
   return parse (data, format);
 }
