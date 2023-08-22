@@ -8,3 +8,7 @@
 Сравнение плоских файлов (JSON):
 
 <a href="https://asciinema.org/a/WsLlp8WYbpcLXkJDeXvEpRbxC" target="_blank"><img src="https://asciinema.org/a/WsLlp8WYbpcLXkJDeXvEpRbxC.svg" /></a>
+
+Сравнение плоских файлов (yaml):
+
+<a href="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ" target="_blank"><img src="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ.svg" /></a>
