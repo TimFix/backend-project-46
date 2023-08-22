@@ -12,3 +12,8 @@
 Сравнение плоских файлов (yaml):
 
 <a href="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ" target="_blank"><img src="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ.svg" /></a>
+
+
+Рекурсивное сравнение:
+
+<a href="https://asciinema.org/a/nMV4MQMx9mqKP4zLZjwkK6HQV" target="_blank"><img src="https://asciinema.org/a/nMV4MQMx9mqKP4zLZjwkK6HQV.svg" /></a>
