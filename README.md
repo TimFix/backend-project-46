@@ -1,6 +1,7 @@
 # backend-project-46
 <a href="https://codeclimate.com/github/TimFix/backend-project-46/maintainability"><img src="https://api.codeclimate.com/v1/badges/fd3ee132a75e2330bf41/maintainability" /></a>
 <a href="https://codeclimate.com/github/TimFix/backend-project-46/test_coverage"><img src="https://api.codeclimate.com/v1/badges/fd3ee132a75e2330bf41/test_coverage" /></a>
+[![Actions Status](https://github.com/TimFix/backend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/TimFix/backend-project-46/actions)
 
 Вычислитель отличий:
 
