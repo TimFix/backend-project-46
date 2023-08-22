@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "bin": {
     "gendiff": "bin/gendiff.js"
   },
@@ -13,6 +13,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "urljs": "^2.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-plugin-jest": "^27.2.3",
+    "eslint-plugin-react": "^7.33.2",
+    "jest": "^29.6.3"
   }
 }
