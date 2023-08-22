@@ -14,6 +14,10 @@
 <a href="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ" target="_blank"><img src="https://asciinema.org/a/vbT5hmHZRBrxSQ2V2fQGSRfQZ.svg" /></a>
 
 
-Рекурсивное сравнение:
+Рекурсивное сравнение вложенных объектов в фотмате stylish:
 
 <a href="https://asciinema.org/a/TtO89twDlw6UbjBNyyNnRczN2" target="_blank"><img src="https://asciinema.org/a/TtO89twDlw6UbjBNyyNnRczN2.svg" /></a>
+
+Плоское сравнение вложенных объектов в фотмате plain:
+
+<a href="https://asciinema.org/a/XwiW5yimlpWmxOoJ6AgNYD8rr" target="_blank"><img src="https://asciinema.org/a/XwiW5yimlpWmxOoJ6AgNYD8rr.svg" /></a>
