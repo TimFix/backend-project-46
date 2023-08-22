@@ -21,3 +21,7 @@
 Плоское сравнение вложенных объектов в фотмате plain:
 
 <a href="https://asciinema.org/a/XwiW5yimlpWmxOoJ6AgNYD8rr" target="_blank"><img src="https://asciinema.org/a/XwiW5yimlpWmxOoJ6AgNYD8rr.svg" /></a>
+
+Cравнение вложенных объектов в фотмате json:
+
+<a href="https://asciinema.org/a/40TFvbGqnwUflFZxmVABnHhqp" target="_blank"><img src="https://asciinema.org/a/40TFvbGqnwUflFZxmVABnHhqp.svg" /></a>
