@@ -16,4 +16,4 @@
 
 Рекурсивное сравнение:
 
-<a href="https://asciinema.org/a/q2ioWUE0dBcXynZIAJ93RSN6X" target="_blank"><img src="https://asciinema.org/a/q2ioWUE0dBcXynZIAJ93RSN6X.svg" /></a>
+<a href="https://asciinema.org/a/TtO89twDlw6UbjBNyyNnRczN2" target="_blank"><img src="https://asciinema.org/a/TtO89twDlw6UbjBNyyNnRczN2.svg" /></a>
